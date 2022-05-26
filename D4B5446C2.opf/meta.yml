@@ -1,10 +1,22 @@
-id: PB54A4C79
+id: D4B5446C2
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
+imported: '2022-01-07T13:48:58+00:00'
+last_modified: '2022-05-26T12:35:51.765405+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  volumes:
-    0d91bbbacdaf479aad40db3181ce56cc:
-      base_file: v038.txt
+  base:
+    643c:
       image_group_id: I1PD95883
       title: གཙུག་ཏོར་དྲི་མ་མེད་པར་སྣང་བའི་གཟུངས་བཀླག་ཅིང་མཆོད་རྟེན་བརྒྱ་རྩ་བརྒྱད་དམ་མཆོད་རྟེན་ལྔ་གདབ་པའི་ཆོ་ག་མདོ་སད་ལས་བསྡུས་པ།
       total_pages: 1044
-      volume_number: 38
+      order: 38
+      base_file: 643c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
